@@ -22,3 +22,17 @@
     letter-spacing: -0.04em;
     color: #ffff
 }
+
+.gpt3__features-container__feature-title div {
+    border: 1px solid green;
+    width: 38px;
+    height: 3px;
+    background: var(--gradient-bar);
+    box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+}
+
+.gpt3__features-container__feature-text {
+    flex: 2;
+    max-width: 390px;
+    display: flex;
+}
