@@ -61,6 +61,9 @@ a {
 .section__padding {
    padding: 4rem 6rem
 }
+.section-padding {
+  padding: 0 6rem
+}
 
 .section__margin {
    margin: 4rem 6rem
@@ -121,8 +124,11 @@ a {
    .section__padding {
       padding: 4rem 2rem;
    }
+   .section-padding {
+    padding: 0;
+   }
    
    .section__margin {
-      margin: 4rem;
+      margin: 4rem 2rem;
    }
  }
