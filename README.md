@@ -1,5 +1,5 @@
-# AI LANDIGN PAGE
-This repository contains the code for an AI landing page.
+# AI LANDING PAGE
+This repository contains the code for an AI landing page built using React
 
 
 ## Live Preview
