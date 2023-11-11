@@ -2,7 +2,7 @@
 import {Blog,Footer, Header, Possiblity, Features } from './container/index'
 import {CTA, Brand, Navbar} from './components'
 import WhatGPT3 from './container/whatGPT3/WhatGPT3'
-import './app.css'
+import './App.css'
 
 function App() {
 
